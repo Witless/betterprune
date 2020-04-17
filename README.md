@@ -14,7 +14,7 @@ This may be considered in the future, feel free to add anything you feel the lac
 
 Lastly, the bot won't prune any member with a set nickname on the server. 
 
-## Instalation
+## Installation
 
 Use node package manager
 
