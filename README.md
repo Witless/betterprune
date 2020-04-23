@@ -30,7 +30,7 @@ Variables followed by ' ** ' are required
 
 - bot_token** , add here the token of your Discord bot (String)
 - activation_command**, add here the command that will begin the prune (String)
-- initial_date**, add here the date in timestamp format from where you want to prune members, use this tool to convert from Date to Timestamp: [https://www.timestampconvert.com/]() (Number)
+- initial_date**, add here the date in timestamp format from where you want to prune members, use this tool to convert from Date to Timestamp: [https://timestampconvert.com/](https://timestampconvert.com/) (Number)
 - max_roles**, the roles threshold a user has in order to be pruned. Side note: @everyone is a role too!! (Number)
 - after_logs**, set 1 to generate logs from the prune process, 0 if you don't want to generate a log file (Number)
 - bot_id, set the ID of the bot account you will be using, if you do so, a bot invite will be generated on start (String)
